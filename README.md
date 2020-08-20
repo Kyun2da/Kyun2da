@@ -15,5 +15,10 @@
 - Frontend(React)
 - Machine learning
 
+<div>
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kyun2da&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyun2da&hide_langs_below=15)](https://github.com/anuraghazra/github-readme-stats)
