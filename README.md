@@ -18,7 +18,7 @@
 <div>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kyun2da&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyun2da&hide_langs_below=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyun2da)](https://solved.ac/kyun2da)
 </div>
 
 ### Recently Blog posts
