@@ -23,4 +23,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[백준/Python] 1300 K번째 수](https://Kyun2da.github.io/2020/08/31/kNumber/)
+- [[백준/Python] 2110 공유기 설치](https://Kyun2da.github.io/2020/08/31/installRouter/)
+- [[백준/Python] 2749 피보나치 수 3](https://Kyun2da.github.io/2020/08/30/fibonacci/)
+- [[백준/Python] 10830 행렬 제곱](https://Kyun2da.github.io/2020/08/30/matrixPower/)
 <!-- BLOG-POST-LIST:END -->
