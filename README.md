@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyun2da&hide_langs_below=15)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### Blog posts
+### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[백준/Python] 1300 K번째 수](https://Kyun2da.github.io/2020/08/31/kNumber/)
 - [[백준/Python] 2110 공유기 설치](https://Kyun2da.github.io/2020/08/31/installRouter/)
