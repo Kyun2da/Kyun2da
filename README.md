@@ -23,8 +23,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[백준/Python] 2225 합분해](https://Kyun2da.github.io/2020/09/22/sumDecomposition/)
-- [[백준/Python] 13398 연속합 2](https://Kyun2da.github.io/2020/09/22/sequenceSum/)
-- [[백준/Python] 11054 가장 긴 바이토닉 부분 수열](https://Kyun2da.github.io/2020/09/22/longestBitonicSubsequence/)
-- [[백준/Python] 14002 가장 긴 증가하는 부분 수열 4](https://Kyun2da.github.io/2020/09/22/longestIncreasingSubsequence4/)
+- [[백준/Python] 1987 알파벳](https://Kyun2da.github.io/2020/09/23/alphabet/)
+- [[백준/Python] 1248 맞춰봐](https://Kyun2da.github.io/2020/09/23/correct/)
+- [[백준/Python] 1339 단어 수학](https://Kyun2da.github.io/2020/09/23/wordMath/)
+- [[백준/Python] 1107 리모컨](https://Kyun2da.github.io/2020/09/23/remoteControl/)
 <!-- BLOG-POST-LIST:END -->
