@@ -23,8 +23,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[백준/Python] 1987 알파벳](https://Kyun2da.github.io/2020/09/23/alphabet/)
-- [[백준/Python] 1248 맞춰봐](https://Kyun2da.github.io/2020/09/23/correct/)
-- [[백준/Python] 1339 단어 수학](https://Kyun2da.github.io/2020/09/23/wordMath/)
-- [[백준/Python] 1107 리모컨](https://Kyun2da.github.io/2020/09/23/remoteControl/)
+- [[백준/Python] 13460 구슬 탈출 2](https://Kyun2da.github.io/2020/09/26/marbleEscape/)
+- [[백준/Python] 12100 2048 (Easy)](https://Kyun2da.github.io/2020/09/26/2048easy/)
+- [[백준/Python] 1062 가르침](https://Kyun2da.github.io/2020/09/26/teaching/)
+- [[백준/Python] 14391 종이 조각](https://Kyun2da.github.io/2020/09/26/paperPiece/)
 <!-- BLOG-POST-LIST:END -->
