@@ -23,8 +23,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [express https 설정하기](https://Kyun2da.github.io/2020/10/01/httpsSetting/)
 - [[백준/Python] 1644 소수의 연속합](https://Kyun2da.github.io/2020/09/27/primeSequenceNum/)
 - [[백준/Python] 1806 부분합](https://Kyun2da.github.io/2020/09/27/partialSum/)
 - [[백준/Python] 13460 구슬 탈출 2](https://Kyun2da.github.io/2020/09/26/marbleEscape/)
-- [[백준/Python] 12100 2048 (Easy)](https://Kyun2da.github.io/2020/09/26/2048easy/)
 <!-- BLOG-POST-LIST:END -->
