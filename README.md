@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Express로 서버 구성하기 - 3](https://Kyun2da.github.io/2020/12/25/express3/)
+- [Express로 서버 구성하기 - 2](https://Kyun2da.github.io/2020/12/25/express2/)
+- [Express로 서버 구성하기 - 1](https://Kyun2da.github.io/2020/12/25/express1/)
 - [express https 설정하기](https://Kyun2da.github.io/2020/10/01/httpsSetting/)
-- [[백준/Python] 1644 소수의 연속합](https://Kyun2da.github.io/2020/09/27/primeSequenceNum/)
-- [[백준/Python] 1806 부분합](https://Kyun2da.github.io/2020/09/27/partialSum/)
-- [[백준/Python] 13460 구슬 탈출 2](https://Kyun2da.github.io/2020/09/26/marbleEscape/)
 <!-- BLOG-POST-LIST:END -->
