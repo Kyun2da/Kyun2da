@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Express로 서버 구성하기 (morgan) - 4](https://Kyun2da.github.io/2020/12/25/morgan/)
 - [Express로 서버 구성하기 - 3](https://Kyun2da.github.io/2020/12/25/express3/)
 - [Express로 서버 구성하기 - 2](https://Kyun2da.github.io/2020/12/25/express2/)
 - [Express로 서버 구성하기 - 1](https://Kyun2da.github.io/2020/12/25/express1/)
-- [express https 설정하기](https://Kyun2da.github.io/2020/10/01/httpsSetting/)
 <!-- BLOG-POST-LIST:END -->
