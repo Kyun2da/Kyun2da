@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Express로 서버 구성하기 (cookie-parser) - 5](https://Kyun2da.github.io/2020/12/29/cookieParser/)
 - [쿠키와 세션 차이](https://Kyun2da.github.io/2020/12/28/cookieSession/)
 - [Express로 서버 구성하기 (morgan) - 4](https://Kyun2da.github.io/2020/12/25/morgan/)
 - [Express로 서버 구성하기 - 3](https://Kyun2da.github.io/2020/12/25/express3/)
-- [Express로 서버 구성하기 - 2](https://Kyun2da.github.io/2020/12/25/express2/)
 <!-- BLOG-POST-LIST:END -->
