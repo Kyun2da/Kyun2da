@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [express-session 라이브러리 사용법](https://Kyun2da.github.io/2021/01/10/express10/)
 - [CS 공부 - 자료구조 [배열]](https://Kyun2da.github.io/2021/01/10/array/)
 - [Express로 서버 구성하기 ( 미들웨어 ) - 9](https://Kyun2da.github.io/2021/01/05/express9/)
 - [Express로 서버 구성하기 ( 라우팅 ) - 8](https://Kyun2da.github.io/2021/01/03/express8/)
-- [Express로 서버 구성하기 RESTful api - 7](https://Kyun2da.github.io/2021/01/02/express7/)
 <!-- BLOG-POST-LIST:END -->
