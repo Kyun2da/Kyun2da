@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CS 공부 - [스택]](https://Kyun2da.github.io/2021/01/12/stack/)
 - [CS 공부 - 네트워크 [SOP와 CORS]](https://Kyun2da.github.io/2021/01/11/cors/)
 - [CS 공부 - 자료구조 [리스트]](https://Kyun2da.github.io/2021/01/11/list/)
 - [express-session 라이브러리 사용법](https://Kyun2da.github.io/2021/01/10/express10/)
-- [CS 공부 - 자료구조 [배열]](https://Kyun2da.github.io/2021/01/10/array/)
 <!-- BLOG-POST-LIST:END -->
