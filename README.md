@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux 서버 https 세팅 - Node.js Express](https://Kyun2da.github.io/2021/01/13/httpsSetting2/)
 - [CS 공부 - [큐]](https://Kyun2da.github.io/2021/01/13/queue/)
 - [CS 공부 - [스택]](https://Kyun2da.github.io/2021/01/12/stack/)
 - [CS 공부 - 네트워크 [SOP와 CORS]](https://Kyun2da.github.io/2021/01/11/cors/)
-- [CS 공부 - 자료구조 [리스트]](https://Kyun2da.github.io/2021/01/11/list/)
 <!-- BLOG-POST-LIST:END -->
