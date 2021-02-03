@@ -24,8 +24,6 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CS 공부 - [AVL 트리]](https://Kyun2da.github.io/2021/01/15/avltree/)
-- [CS 공부 - [트리]](https://Kyun2da.github.io/2021/01/14/tree/)
-- [Linux 서버 https 세팅 - Node.js Express](https://Kyun2da.github.io/2021/01/13/httpsSetting2/)
-- [CS 공부 - [큐]](https://Kyun2da.github.io/2021/01/13/queue/)
+- [Jekyll 에서 Gatsby로 블로그 이동](https://kyun2da.dev/Essay/jekyll-에서-gatsby로-블로그-이동/)
+- [about](https://kyun2da.dev/resume-en/)
 <!-- BLOG-POST-LIST:END -->
