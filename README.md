@@ -14,7 +14,7 @@
 ### Interest
 - Algorithm(Python, C++, Javascript)
 - Frontend(React)
-- Machine learning
+- Backend(Express.js)
 
 <div>
   
