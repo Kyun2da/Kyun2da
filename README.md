@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [프로세스와 스레드](https://kyun2da.dev/CS/프로세스와-스레드/)
 - [자바스크립트 런타임 Node.js](https://kyun2da.dev/javascript/자바스크립트-런타임-node.js/)
 - [리액트 라이프사이클의 이해](https://kyun2da.dev/react/리액트-라이프사이클의-이해/)
 - [소프트웨어 스펙의 모든 것 리뷰](https://kyun2da.dev/책리뷰/소프트웨어-스펙의-모든-것-리뷰/)
-- [Jekyll 에서 Gatsby로 블로그 이동](https://kyun2da.dev/Essay/jekyll-에서-gatsby로-블로그-이동/)
 <!-- BLOG-POST-LIST:END -->
