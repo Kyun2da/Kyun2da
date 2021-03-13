@@ -24,8 +24,8 @@
 
 ### Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [웹 애플리케이션 보안 리뷰](https://kyun2da.dev/책리뷰/웹-애플리케이션-보안-리뷰/)
 - [리액트 Key값의 의미](https://kyun2da.dev/react/리액트-key값의-의미/)
 - [프로세스와 스레드](https://kyun2da.dev/CS/프로세스와-스레드/)
 - [자바스크립트 런타임 Node.js](https://kyun2da.dev/javascript/자바스크립트-런타임-node.js/)
-- [리액트 라이프사이클의 이해](https://kyun2da.dev/react/리액트-라이프사이클의-이해/)
 <!-- BLOG-POST-LIST:END -->
