@@ -23,7 +23,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyun2da)](https://solved.ac/kyun2da)
 </div>
 
-### 데브 블로그
+### 개발 블로그
 <!-- BLOG-POST-LIST:START -->
 - [웹 애플리케이션 보안 리뷰](https://kyun2da.dev/책리뷰/웹-애플리케이션-보안-리뷰/)
 - [리액트 Key값의 의미](https://kyun2da.dev/react/리액트-key값의-의미/)
