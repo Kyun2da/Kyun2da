@@ -33,4 +33,8 @@
 
 ### 알고리즘 블로그
 <!-- BLOG:START -->
+- [[백준 / Python] 5014 스타트링크](https://Kyun2da.github.io/2021/04/03/startlink/)
+- [[백준 / Python] 2512 예산](https://Kyun2da.github.io/2021/04/02/budget/)
+- [CS 공부 - [AVL 트리]](https://Kyun2da.github.io/2021/01/15/avltree/)
+- [CS 공부 - [트리]](https://Kyun2da.github.io/2021/01/14/tree/)
 <!-- BLOG:END -->
