@@ -23,10 +23,14 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyun2da)](https://solved.ac/kyun2da)
 </div>
 
-### Recently Blog posts
+### 데브 블로그
 <!-- BLOG-POST-LIST:START -->
 - [웹 애플리케이션 보안 리뷰](https://kyun2da.dev/책리뷰/웹-애플리케이션-보안-리뷰/)
 - [리액트 Key값의 의미](https://kyun2da.dev/react/리액트-key값의-의미/)
 - [프로세스와 스레드](https://kyun2da.dev/CS/프로세스와-스레드/)
 - [자바스크립트 런타임 Node.js](https://kyun2da.dev/javascript/자바스크립트-런타임-node.js/)
 <!-- BLOG-POST-LIST:END -->
+
+### 알고리즘 블로그
+<!-- BLOG:START -->
+<!-- BLOG:END -->
