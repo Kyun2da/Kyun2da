@@ -15,3 +15,8 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://kyun2da.dev/rss.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          max_post_count: "4"
+          feed_list: "https://kyun2da.github.io/feed.xml"
