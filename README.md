@@ -10,12 +10,12 @@
 
 </div>
 
-### Wanna be Full stack Developer
+### Junior Web Developer
 
 ### Interest
 - Algorithm(Python, C++, Javascript)
 - Frontend(React)
-- Backend(Express.js)
+- Backend(Express.js, Nest.js)
 
 <div>
   
