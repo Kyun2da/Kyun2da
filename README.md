@@ -33,8 +33,8 @@
 
 ### 알고리즘 블로그
 <!-- BLOG:START -->
+- [[백준 / Python] 15685 드래곤 커브](https://Kyun2da.github.io/2021/04/06/dragonCurve/)
 - [[백준 / Python] 1238 파티](https://Kyun2da.github.io/2021/04/05/party/)
 - [[백준 / Python] 1937 욕심쟁이 판다](https://Kyun2da.github.io/2021/04/04/panda/)
 - [[백준 / Python] 5014 스타트링크](https://Kyun2da.github.io/2021/04/03/startlink/)
-- [[백준 / Python] 2512 예산](https://Kyun2da.github.io/2021/04/02/budget/)
 <!-- BLOG:END -->
