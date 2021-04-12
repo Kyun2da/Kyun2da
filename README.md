@@ -33,8 +33,8 @@
 
 ### 알고리즘 블로그
 <!-- BLOG:START -->
+- [[백준 / Python] 1946 신입 사원](https://Kyun2da.github.io/2021/04/12/newEmployees/)
 - [[백준 / Python] 1915 가장 큰 정사각형](https://Kyun2da.github.io/2021/04/09/biggestSquare/)
 - [[백준 / Python] 2589 보물섬](https://Kyun2da.github.io/2021/04/08/treasureIsland/)
 - [[백준 / Python] 2504 괄호의 값](https://Kyun2da.github.io/2021/04/07/bracketValue/)
-- [[백준 / Python] 15685 드래곤 커브](https://Kyun2da.github.io/2021/04/06/dragonCurve/)
 <!-- BLOG:END -->
