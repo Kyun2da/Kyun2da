@@ -33,8 +33,8 @@
 
 ### 알고리즘 블로그
 <!-- BLOG:START -->
+- [[백준 / Python] 2146 다리 만들기](https://Kyun2da.github.io/2021/04/22/makeBridge/)
 - [[백준 / Python] 1504 특정한 최단 경로](https://Kyun2da.github.io/2021/04/21/specialRoutes/)
 - [[백준 / Python] 17144 미세먼지 안녕!](https://Kyun2da.github.io/2021/04/20/brownsmog/)
 - [[백준 / Python] 1946 신입 사원](https://Kyun2da.github.io/2021/04/12/newEmployees/)
-- [[백준 / Python] 1915 가장 큰 정사각형](https://Kyun2da.github.io/2021/04/09/biggestSquare/)
 <!-- BLOG:END -->
