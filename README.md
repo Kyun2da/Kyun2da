@@ -25,10 +25,10 @@
 
 ### 개발 블로그
 <!-- BLOG-POST-LIST:START -->
+- [인터넷은 어떻게 동작하는가](https://kyun2da.dev/CS/인터넷은-어떻게-동작하는가/)
 - [axios 개념 정리](https://kyun2da.dev/라이브러리/axios-개념-정리/)
 - [몽고DB 완벽가이드 리뷰](https://kyun2da.dev/책리뷰/몽고db-완벽가이드-리뷰/)
 - [웹 애플리케이션 보안 리뷰](https://kyun2da.dev/책리뷰/웹-애플리케이션-보안-리뷰/)
-- [리액트 Key값의 의미](https://kyun2da.dev/react/리액트-key값의-의미/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 알고리즘 블로그
