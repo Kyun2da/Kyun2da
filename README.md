@@ -32,8 +32,8 @@
 
 ### 알고리즘 블로그
 <!-- BLOG:START -->
+- [[백준 / Python] 9466 텀 프로젝트](https://Kyun2da.github.io/2021/04/29/termProject/)
 - [[백준 / Python] 2096 내려가기](https://Kyun2da.github.io/2021/04/27/goDown/)
 - [[백준 / Python] 2493 탑](https://Kyun2da.github.io/2021/04/23/top/)
 - [[백준 / Python] 2146 다리 만들기](https://Kyun2da.github.io/2021/04/22/makeBridge/)
-- [[백준 / Python] 1504 특정한 최단 경로](https://Kyun2da.github.io/2021/04/21/specialRoutes/)
 <!-- BLOG:END -->
