@@ -24,10 +24,10 @@
 
 ### 개발 블로그
 <!-- BLOG-POST-LIST:START -->
+- [http의 역사와 http2의 등장](https://kyun2da.dev/CS/http의-역사와-http2의-등장/)
 - [https에 대해서](https://kyun2da.dev/CS/https에-대해서/)
 - [http란](https://kyun2da.dev/CS/http란/)
 - [DNS란 무엇인가](https://kyun2da.dev/CS/dns란-무엇인가/)
-- [인터넷은 어떻게 동작하는가](https://kyun2da.dev/CS/인터넷은-어떻게-동작하는가/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 알고리즘 블로그
