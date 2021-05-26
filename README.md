@@ -24,10 +24,10 @@
 
 ### 개발 블로그
 <!-- BLOG-POST-LIST:START -->
+- [리덕스 툴킷](https://kyun2da.dev/라이브러리/리덕스-툴킷/)
 - [Redux 정리](https://kyun2da.dev/라이브러리/Redux-정리/)
 - [쓰면서 익히는 알고리즘과 자료구조 리뷰](https://kyun2da.dev/책리뷰/쓰면서-익히는-알고리즘과-자료구조-리뷰/)
 - [TCP와 UDP](https://kyun2da.dev/CS/tcp와-udp/)
-- [브라우저는 어떻게 동작하는가](https://kyun2da.dev/CS/브라우저는-어떻게-동작하는가/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 알고리즘 블로그
